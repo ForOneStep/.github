@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Alt text](docs/pages.png)
+![Alt text](.github/docs/pages.png)
 
 #### 매일 주어지는 공통 질문을 통해, 가족간의 대화를 유도하는 AI기반 소통 서비스
 
@@ -77,7 +77,7 @@
 
 ### Prompt Engineering
 
-![Alt text](docs/prompt_engineering.png)
+![Alt text](.github/docs/prompt_engineering.png)
 
 - 가족 관계에 따라 query문을 다르게 작성.
 - 가족 관계 + 랜덤으로 정해진 그날의 대화 키워드를 기반으로 질문 생성
